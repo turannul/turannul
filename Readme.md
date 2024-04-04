@@ -26,6 +26,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/turannul/turannul/output/snake.svg" alt="Snake animation" />
-![](https://komarev.com/ghpvc/?username=turannul)
+
+###
+
+<img src="https://komarev.com/ghpvc/?username=turannul&mode=flat" alt="Visitor count" border="0">
 
 ###
