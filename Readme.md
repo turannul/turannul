@@ -25,7 +25,6 @@
 
 ###
 
-<br clear="both">
 <img src="https://raw.githubusercontent.com/turannul/turannul/output/snake.svg" alt="Snake animation" />
 ![](https://komarev.com/ghpvc/?username=turannul)
 
