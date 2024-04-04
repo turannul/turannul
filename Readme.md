@@ -2,9 +2,9 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; width: 200px; height: 200px;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=turannul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turannul&locale=en&hide_title=false&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turannul&locale=en&hide_title=false&langs_count=8&theme=dracula&hide_border=true" alt="languages graph"/>
 </div>
 
 ###
