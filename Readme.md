@@ -1,10 +1,10 @@
-<p align="center">NSLog(@"Hello World!")</p>
+<p align="center">NSLog(@"Hello World!");</p>
 
 ###
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=turannul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turannul&locale=en&hide_title=false&langs_count=8&theme=dracula&hide_border=true" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turannul&locale=en&hide_title=false&langs_count=5&theme=dracula&hide_border=true" alt="languages graph"/>
 </div>
 
 ###
@@ -27,6 +27,6 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/turannul/turannul/output/snake.svg" alt="Snake animation" />
-<div style="text-align: center;"> ![](https://komarev.com/ghpvc/?username=turannul) </div>
+![](https://komarev.com/ghpvc/?username=turannul)
 
 ###
