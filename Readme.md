@@ -27,6 +27,6 @@
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/turannul/turannul/output/snake.svg" alt="Snake animation" />
-<div style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=turannul" alt="visitor count"> </div>
+<div style="text-align: center;"> ![](https://komarev.com/ghpvc/?username=turannul) </div>
 
 ###
