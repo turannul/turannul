@@ -1,6 +1,4 @@
-<p align="center">NSLog(@"Hello World!");</p>
-
-###
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=18&duration=4000&pause=1000&color=FF00FF&width=435&separator=%3D&lines=NSLog(%40%22Hello+World!%22);%3Dprint(%22Code+is+like+joke+when+you+have+to+explain%2C+it+is+bad.+%22)%3Decho+%22There+is+always+one+more+bug+to+fix.%22%3Dprintf(%22Read+the+Docs%22);%3Dprint(%22sudo+make+a+sandwich)%3Dstd%3A%3Acout+%3C%3C+%22(core+dumped)%22;" alt="" /></a></p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=turannul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" alt="stats graph"/>
