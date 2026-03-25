@@ -9,10 +9,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=turannul&theme=dracula&exclude=HTML,CSS" width="400" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=turannul&theme=dracula&exclude=HTML,CSS"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turannul&theme=dracula&exclude=HTML,CSS" width="400" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turannul&theme=dracula&exclude=HTML,CSS"/>
       </td>
     </tr>
   </table>
